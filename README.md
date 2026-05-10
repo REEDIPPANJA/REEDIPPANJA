@@ -1,5 +1,22 @@
 # 💫 About Me:
-# Hey there! 👋<br><br>I'm Reedip Panja, a Computer Science student and currently working as an SDE at 4Way Technologies.<br><br>💼 Working on:<br>- Website Development<br>- Frontend & Backend Features<br>- Scalable Web Applications<br><br>⚡ Tech Stack:<br>JavaScript • React • Node.js • MongoDB • Express • C++ • Tailwind CSS<br><br>🎯 Goal: To become a top Software Engineer and build impactful products.
+# Hey there! 👋
+
+I'm Reedip Panja, a Computer Science student and currently working as an SDE at 4Way Technologies.
+
+💼 Working on:
+- Website Development
+- Frontend & Backend Features
+- Scalable Web Applications
+
+🧠 DSA & Competitive Programming:
+- Solved 500+ DSA Problems
+- Achieved 1680+ Contest Rating
+
+⚡ Tech Stack:
+JavaScript • React • Node.js • MongoDB • Express • C++ • Tailwind CSS
+
+🎯 Goal:
+To become a top Software Engineer and build impactful products.
 
 
 # 💻 Tech Stack:
@@ -11,6 +28,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=REEDIPPANJA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🌐 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-jiraya20-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/jiraya20/)
 
 ---
 [![](https://komarev.com/ghpvc/?username=REEDIPPANJA&icon=0&color=0)](https://visitcount.itsvg.in)
